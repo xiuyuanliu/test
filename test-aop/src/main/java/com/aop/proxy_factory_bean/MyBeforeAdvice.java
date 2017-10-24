@@ -12,6 +12,6 @@ public class MyBeforeAdvice implements MethodBeforeAdvice {
     public void before(Method method, Object[] args, Object target) throws Throwable {
 
 
-        System.out.println("before advice");
+        System.out.println("before do something ...");
     }
 }

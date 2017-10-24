@@ -6,6 +6,6 @@ public class MyCheck {
     public void check() {
 
 
-        System.out.println("my check before..");
+        System.out.println("my check ...");
     }
 }

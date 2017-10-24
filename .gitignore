@@ -1,5 +1,10 @@
 target/
-
-.idea
-
+.idea/
 *.iml
+*.log
+.classpath
+.project
+.settings/
+out/
+.DS_Store
+little-boy.iml
